@@ -1,0 +1,37 @@
+[
+  {
+    "city": "petalborough",
+    "kind": "rental_car",
+    "title": "Budget Rent-A-Car - Petalborough Airport"
+  },
+  {
+    "city": "petalborough",
+    "kind": "rental_car",
+    "title": "Hertz Car Rental - Downtown Petalborough"
+  },
+  {
+    "city": "petalborough",
+    "kind": "rental_car",
+    "title": "Enterprise Rent-A-Car - Petalborough Mall"
+  },
+  {
+    "city": "rustburg",
+    "kind": "rental_car",
+    "title": "Avis Car Rental - Rustburg Station"
+  },
+  {
+    "city": "rustburg",
+    "kind": "rental_car",
+    "title": "National Car Rental - Rustburg Center"
+  },
+  {
+    "city": "shaleport",
+    "kind": "rental_car",
+    "title": "Alamo Rent A Car - Shaleport Harbor"
+  },
+  {
+    "city": "shaleport",
+    "kind": "rental_car",
+    "title": "Thrifty Car Rental - Shaleport Downtown"
+  }
+]
